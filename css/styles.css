@@ -1,9 +1,16 @@
 .sidebar{
   width:30%;
   float:left;
+  padding:12px;
+  border: 12px;
+  margin:12px;
+  background-color: grey;
 
 }
 .column{
   width:30%;
   float:right;
+}
+img{
+  padding:8px;
 }
